@@ -271,9 +271,8 @@ This project was developed from a technical problem statement provided as part o
 
 ## Author
 
-**Rajith Kumar Mantrabuddi**  
+**Karthik-Prudhvi**  
 B.Tech, Electronics and Communication Engineering  
 Indian Institute of Technology Patna
 
-- GitHub: [Rajith-kumar](https://github.com/Rajith-kumar)
-- LinkedIn: [rajithkumarmantrabuddi](https://www.linkedin.com/in/rajithkumarmantrabuddi/)
+- GitHub: [Karthik-Prudhvi](https://github.com/karthikprudhvi02)
